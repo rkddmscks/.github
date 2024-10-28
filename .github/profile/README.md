@@ -4,14 +4,13 @@
 
 ### **Deployment, Reinvented.**
 
+<br> 
 
 **rkddmscks.site**는 최신 기술과 자동화된 솔루션을 통해 개발자들이 최고의 생산성을 발휘할 수 있도록 지원합니다. 복잡한 배포 과정은 덜어내고, 오직 코딩에 몰입할 수 있는 환경을 제공합니다.  
 
 당신의 여정을 혁신으로 이끌고, 믿을 수 있는 보안으로 보호합니다.
 
 <br>
-
----
 
 ## 🛠️ **Core Features**  
 
@@ -38,7 +37,6 @@
 
   <br>
 
----
 
 ## 🛡️ **Technology Stack**  
 
@@ -49,15 +47,15 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" width="120" height="40" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" width="120" height="40" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" width="120" height="40" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" width="120" height="40" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" height="40" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"  height="40" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" height="40" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" height="40" />
 </p>
 
 <br>
 
----
+
 
 ## **A Journey Towards Innovation**  
 
@@ -80,16 +78,15 @@
 
    <br>
 
----
+
 
 <br>
 
 <p align="center">
-  © 2024 **rkddmscks.site** | **Empowering Innovation, Together.** 🚀
+  © 2024 <b>rkddmscks.site | Empowering Innovation, Together.</b> 🚀
 </p>
 
 <br>
 
----
 
 이제 문서가 더 풍성해졌으며, 각 섹션 사이의 여백이 추가되어 시각적으로도 여유로운 느낌을 줍니다. Apple의 톤을 모방하여 간결하면서도 여유로운 표현을 사용했습니다.
