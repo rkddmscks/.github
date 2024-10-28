@@ -84,7 +84,7 @@
 <br>
 
 <p align="center">
-© 2024 **rkddmscks.site** | **Empowering Innovation, Together.** 🚀
+  <b>© 2024 rkddmscks.site** | **Empowering Innovation, Together. 🚀</b>
 </p>
 
 <br>
